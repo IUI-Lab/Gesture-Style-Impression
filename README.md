@@ -11,3 +11,41 @@ An evaluation study found that the gesture transfer model effectively changes th
 # Demo Movie
  movie drag&drop
 
+# Acknowledgement
+To calculate the feature values, we used ???.
+
+We would like to express our sincere gratitude.
+
+
+
+# Licence
+
+The license of this ???
+
+If you use this corpus in your research and publish your research, please cite one of [the papers below](url????).
+
+# Citation
+This work has been published in the following papers.
+- ???
+
+BibTeX is as follows.
+
+
+```
+@inproceedings{,
+author = {},
+title = {Modifying Gesture Style with Impression Words},
+year = {2024},
+isbn = {},
+publisher = {},
+address = {},
+url = {},
+doi = {},
+booktitle = {},
+pages = {},
+numpages = {},
+keywords = {},
+location = {},
+series = {}
+}
+```
