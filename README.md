@@ -10,5 +10,4 @@ An evaluation study found that the gesture transfer model effectively changes th
 
 # Demo Movie
 
-https://github.com/IUI-Lab/Modifying-Gesture-Style-with-Impression-Words/assets/91646461/e9dae9da-625c-4b0d-870a-d1ab404dc495
 
