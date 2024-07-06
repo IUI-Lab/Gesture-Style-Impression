@@ -1,4 +1,4 @@
-# Modifying-Gesture-Style-with-Impression-Words
+# Modifying Gesture Style with Impression Words
 
 When people form impressions of others in face-to-face communication, gesture style (i.e. the way of gesturing) impacts their impressions, such as being well-mannered, honest, and enthusiastic. 
 
