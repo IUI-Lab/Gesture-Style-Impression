@@ -1,5 +1,6 @@
 # Modifying Gesture Style with Impression Words
 
+### Abstract
 When people form impressions of others in face-to-face communication, gesture style (i.e. the way of gesturing) impacts their impressions, such as being well-mannered, honest, and enthusiastic. 
 
 As a mechanism of changing the gesture style, we trained a GAN-based style transfer model using a collection of video clips of speakers. Then, we collected a new speaker dataset from YouTube videos representing three different countries, and applied them to the style encoder of our style transfer model and created a gesture style latent space. 
