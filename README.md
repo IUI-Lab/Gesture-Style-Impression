@@ -18,11 +18,8 @@ We would like to express our sincere gratitude.
 
 
 
-# Licence
 
-The license of this ???
 
-If you use this corpus in your research and publish your research, please cite one of [the papers below](url????).
 
 # Citation
 This work has been published in the following papers.
