@@ -1,5 +1,8 @@
 # Modifying Gesture Style with Impression Words
 
+### Author
+
+
 ### Abstract
 When people form impressions of others in face-to-face communication, gesture style (i.e. the way of gesturing) impacts their impressions, such as being well-mannered, honest, and enthusiastic. 
 
@@ -13,18 +16,14 @@ An evaluation study found that the gesture transfer model effectively changes th
  movie drag&drop
 
 # Acknowledgement
-To calculate the feature values, we used ???.
-
-We would like to express our sincere gratitude.
-
+We would like to express our sincere gratitude to Dr. Md. Abdul Mannan and Dr. Kalluri Shareef Babu for creating an initial style transfer model and MUCS dataset. This work was supported by JST Moonshot R&D Grant Number JPMJMS2011 and JST AIP Trilateral AI Research (PANORAMA project, grant no. JPMJCR20G6) and JSPS KAKENHI (grant number JP24K02984).
 
 
 
 
 
 # Citation
-This work has been published in the following papers.
-- ???
+
 
 BibTeX is as follows.
 
@@ -39,7 +38,7 @@ publisher = {},
 address = {},
 url = {},
 doi = {},
-booktitle = {},
+booktitle = {Proceedings of the 24th ACM International Conference on Intelligent Virtual Agents (IVA'24) },
 pages = {},
 numpages = {},
 keywords = {},
