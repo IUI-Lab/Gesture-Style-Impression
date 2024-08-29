@@ -15,7 +15,14 @@ An evaluation study found that the gesture transfer model effectively changes th
 # Demo Movie
  movie drag&drop
 
- <div><video controls src="https://github.com/IUI-Lab/Gesture-Style-Impression/blob/main/start.mp4" muted="false"></video></div>
+ <div><video controls src="https://www.youtube.com/watch?v=Mw184-geQ38" muted="false"></video></div>
+
+1  
+ ![](start.mp4)
+
+2  
+ https://www.youtube.com/watch?v=Mw184-geQ38
+ 
 
 # Acknowledgement
 We would like to express our sincere gratitude to Dr. Md. Abdul Mannan and Dr. Kalluri Shareef Babu for creating an initial style transfer model and MUCS dataset. This work was supported by JST Moonshot R&D Grant Number JPMJMS2011 and JST AIP Trilateral AI Research (PANORAMA project, grant no. JPMJCR20G6) and JSPS KAKENHI (grant number JP24K02984).
