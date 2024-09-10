@@ -1,7 +1,7 @@
 # Modifying Gesture Style with Impression Words
 
 ### Author
-
+Jie Zeng, Yoshiki Takahashi, Yukiko Nakano, Tatsuya Sakato, Hannes Högni Vilhjálmsson
 
 ### Abstract
 When people form impressions of others in face-to-face communication, gesture style (i.e. the way of gesturing) impacts their impressions, such as being well-mannered, honest, and enthusiastic. 
