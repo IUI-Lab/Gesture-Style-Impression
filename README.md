@@ -13,7 +13,7 @@ However, it is difficult to select an appropriate style from a large number of s
 An evaluation study found that the gesture transfer model effectively changes the impression of gesture, and styles selected by the style selection mechanism produced motions that express similar impression to those that applied ground truth styles, compared to randomly selected styles.
 
 # Demo Movie
- movie drag&drop
+<!--movie drag&drop -->
   
 
 
