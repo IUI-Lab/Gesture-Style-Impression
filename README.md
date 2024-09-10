@@ -14,20 +14,8 @@ An evaluation study found that the gesture transfer model effectively changes th
 
 # Demo Movie
  movie drag&drop
-
- <div><video controls src="https://www.youtube.com/watch?v=Mw184-geQ38" muted="false"></video></div>  
- <video controls src="https://www.youtube.com/watch?v=Mw184-geQ38" muted="false"></video>
   
-1  
- ![](start.mp4)  
-2  
- https://www.youtube.com/watch?v=Mw184-geQ38  
-3  
 
-<video width="320" height="240" controls> <source src="start.mp4" type="video/mp4"></video>  
-
-4  
- [![A]()](https://www.youtube.com/watch?v=Mw184-geQ38)
 
    
 https://www.youtube.com/watch?v=Mw184-geQ38
